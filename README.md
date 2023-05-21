@@ -54,7 +54,8 @@
 
 ![image](https://github.com/AdhithyaMR/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/118834761/a6593c8f-3bdc-4dea-95cf-3e8426917900)
 
-![image](https://github.com/AdhithyaMR/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/118834761/f6d29730-9604-45a6-8169-9213a0442e66)
+![image](https://github.com/AdhithyaMR/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/118834761/56346244-26d9-4ee5-8d73-f385d90cd1c6)
+
 
 ## Output:
 
